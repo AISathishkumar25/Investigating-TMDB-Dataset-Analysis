@@ -1,4 +1,6 @@
 Tom vs. Tom - Investigating the TMDB Dataset
+
+
 "Tom vs. Tom" dives into the TMDB (The Movie Database) dataset to uncover insights, trends, and comparisons within the movie industry. This project explores key factors such as box office performance, popularity, genre distribution, and much more, with a special focus on the cinematic legacies of two iconic "Toms"—Tom Cruise and Tom Hanks.
 
 Features:
